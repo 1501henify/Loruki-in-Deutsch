@@ -2,6 +2,7 @@
 
 Lernen-mit-Traversy-Media
 ein Leitfaden für Anfänger, Website-Tutorial.
+**https://1501henify.github.io/Loruki-in-Deutsch/**
 
 ### inhaltsverzeichnis
 
@@ -26,5 +27,3 @@ ein Leitfaden für Anfänger, Website-Tutorial.
 - Medienabfrage (Media-Query)
 - Einführung in HTML5 & CSS3
 
-```
-https://1501henify.github.io/Loruki-in-Deutsch/
